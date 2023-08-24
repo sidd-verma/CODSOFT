@@ -1,0 +1,48 @@
+{  
+    "ques" : [  
+        "Q1. In which state is Shark Fin Cove located?",  
+        "Q2. What are shark fins made of?",  
+        "Q3. What type of rock formations are found at Shark Fin Cove?",  
+        "Q4. What is the largest lizard in the world?",  
+        "Q5. What flightless bird is the emblem of New Zealand?"  
+    ],  
+    "ans" : [  
+        3,  
+        3,  
+        1,  
+        2,  
+        1  
+    ],  
+    "choices" : [  
+        [  
+        "Texas",  
+        "Washington",  
+        "California",  
+        "None of the above"  
+        ],  
+        [  
+        "Bone",  
+        "Blubber",  
+        "Cartilage",  
+        "None of the above"  
+        ],  
+        [  
+        "Sea stacks",  
+        "Sand dunes",  
+        "Volcanic craters",  
+        "None of the above"  
+        ],  
+        [  
+        "Gila monster",  
+        "Komodo dragon",  
+        "Texas horned lizard",  
+        "None of the above"  
+        ],  
+        [  
+        "Kiwi",  
+        "Weka",  
+        "Ostrich",  
+        "None of the above"  
+        ]  
+    ]  
+}  
